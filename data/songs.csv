@@ -1,11 +1,20 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,popularity,release_decade,mood_tags
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,82,2020s,"uplifting,energetic,bright"
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,67,2020s,"focused,dreamy,calm"
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,75,2010s,"aggressive,powerful,driving"
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,71,2020s,"calm,dreamy,nostalgic"
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,88,2020s,"motivating,energetic,aggressive"
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,55,2010s,"ethereal,dreamy,calm"
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,62,2010s,"nostalgic,warm,cozy"
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,79,2020s,"nostalgic,moody,driving"
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,64,2020s,"focused,calm,minimal"
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,77,2020s,"uplifting,warm,euphoric"
+11,Golden Frequency,Sable Crown,r&b,relaxed,0.55,96,0.74,0.71,0.44,73,2010s,"romantic,warm,smooth"
+12,Broken Compass,The Hollow Pines,country,melancholic,0.48,104,0.38,0.52,0.81,58,2010s,"nostalgic,sad,longing"
+13,Concrete Jungle,Mic Theory,hip-hop,intense,0.87,142,0.63,0.85,0.08,85,2020s,"aggressive,confident,urban"
+14,Velvet Undertow,Seraphine,soul,relaxed,0.44,88,0.78,0.65,0.67,69,2010s,"warm,romantic,soulful"
+15,Iron Cathedral,Gravewarden,metal,intense,0.96,168,0.22,0.44,0.04,61,2010s,"aggressive,dark,powerful"
+16,Morning Prelude,Elise Marlow,classical,peaceful,0.21,58,0.69,0.30,0.97,48,2000s,"calm,serene,contemplative"
+17,Static Summer,Drift Signal,indie pop,happy,0.68,116,0.80,0.76,0.29,76,2020s,"uplifting,bright,nostalgic"
+18,Low Light Shuffle,Quarter Note,jazz,moody,0.33,76,0.44,0.57,0.88,60,2010s,"moody,melancholic,late-night"
+19,Dusk Protocol,Parallax,synthwave,moody,0.80,122,0.35,0.78,0.15,78,2020s,"dark,driving,nostalgic"
